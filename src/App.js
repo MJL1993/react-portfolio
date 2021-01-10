@@ -10,9 +10,6 @@ function App() {
         <Route exact path="/react-portfolio" component={HomePage}>
         <HomePage/>
         </Route>
-        <Route exact path="/WebDev" component={WebDev}>
-           <WebDev/>
-        </Route>
     </Switch>
     </Router>
   );
