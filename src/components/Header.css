@@ -1,0 +1,19 @@
+.Toolbar {
+    background-color: black;
+    height: 5%;
+    width: auto;
+}
+.LinkedIn {    
+    padding: 2%;
+}
+.Github{
+    padding: 2%;
+}
+
+.WebDev{
+    padding: 2%;
+}
+
+a:visited {
+    color: gray;
+}
